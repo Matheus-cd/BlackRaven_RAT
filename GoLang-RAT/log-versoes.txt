@@ -1,0 +1,5 @@
+V1.0.0 - Funcional mas sem tratamento de erros e sem persistencia
+V1.0.1 - Funcional com tratamento de erros e persistencia ativa em background
+V1.0.2.0 - Funcional com opção para persistencia via REGISTRY KEY
+V1.0.2.1 - Funcional com base64 encode de ponta a ponta(Modificações no server impossibilitam de se comunicar com versões anteriores)
+V1.0.2.2 - Correção de feedback de Erros que continham tanto OUTPUT como ERR
